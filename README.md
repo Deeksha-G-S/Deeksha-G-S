@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **redux**
 
-- 💬 Ask me about **reach,node.js,express.js,mongoDb,java programming**
+- 💬 Ask me about **react,node.js,express.js,mongoDb,java programming**
 
 
 
